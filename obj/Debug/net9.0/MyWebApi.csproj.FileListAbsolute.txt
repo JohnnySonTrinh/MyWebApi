@@ -30,3 +30,4 @@
 /Users/johnnytrinh/Documents/GitHub/MyWebApi/obj/Debug/net9.0/MyWebApi.pdb
 /Users/johnnytrinh/Documents/GitHub/MyWebApi/obj/Debug/net9.0/MyWebApi.genruntimeconfig.cache
 /Users/johnnytrinh/Documents/GitHub/MyWebApi/obj/Debug/net9.0/ref/MyWebApi.dll
+/Users/johnnytrinh/Documents/GitHub/MyWebApi/obj/Debug/net9.0/MyWebApi.sourcelink.json
